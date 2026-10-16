@@ -4,7 +4,7 @@ A Python program built with Object-Oriented Programming (OOP). It loads student
 records from a CSV file, calculates averages and grades, identifies
 scholarship-eligible students and generates a performance report.
 
-**Author:** Brian (GitHub: briandebruno2-cyber)
+**Author:** Brian Koech (GitHub: briandebruno2-cyber)
 
 ## How to Run
 ```bash
