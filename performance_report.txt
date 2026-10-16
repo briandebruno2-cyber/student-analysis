@@ -1,0 +1,78 @@
+============================================================
+                 STUDENT PERFORMANCE REPORT                 
+============================================================
+Student ID : 25/222
+Name       : Sandra Mutegi
+Programme  : MDS
+Marks      : Math=75, English=80, Science=70
+Average    : 75.00
+Grade      : B
+Type       : Regular AIU student (no scholarship)
+------------------------------------------------------------
+Student ID : 25/224
+Name       : Carlos Ndunda
+Programme  : MDS
+Marks      : Math=90, English=85, Science=88
+Average    : 87.67
+Grade      : A
+Type       : Scholarship student - ELIGIBLE (amount: KES 50,000)
+Scholarship: Eligible = Yes
+------------------------------------------------------------
+Student ID : 25/226
+Name       : Paul Omboga
+Programme  : MDA
+Marks      : Math=60, English=65, Science=58
+Average    : 61.00
+Grade      : C
+Type       : Regular AIU student (no scholarship)
+------------------------------------------------------------
+Student ID : 25/228
+Name       : Ruth Mwimali
+Programme  : MDA
+Marks      : Math=95, English=92, Science=90
+Average    : 92.33
+Grade      : A
+Type       : Scholarship student - ELIGIBLE (amount: KES 80,000)
+Scholarship: Eligible = Yes
+------------------------------------------------------------
+Student ID : 25/230
+Name       : Grace Wanjiru
+Programme  : MDS
+Marks      : Math=82, English=78, Science=84
+Average    : 81.33
+Grade      : A
+Type       : Scholarship student - NOT eligible (amount: KES 30,000)
+Scholarship: Eligible = No
+------------------------------------------------------------
+Student ID : 25/232
+Name       : Brian Kiprop
+Programme  : MDA
+Marks      : Math=45, English=52, Science=48
+Average    : 48.33
+Grade      : F
+Type       : Regular AIU student (no scholarship)
+------------------------------------------------------------
+Student ID : 25/234
+Name       : Amina Hassan
+Programme  : MDS
+Marks      : Math=88, English=91, Science=86
+Average    : 88.33
+Grade      : A
+Type       : Regular AIU student (no scholarship)
+------------------------------------------------------------
+Student ID : 25/236
+Name       : Daniel Otieno
+Programme  : MDA
+Marks      : Math=70, English=68, Science=74
+Average    : 70.67
+Grade      : B
+Type       : Regular AIU student (no scholarship)
+------------------------------------------------------------
+                       CLASS SUMMARY                        
+============================================================
+Total students        : 8
+Highest average       : 92.33 (Ruth Mwimali)
+Lowest average        : 48.33 (Brian Kiprop)
+Overall class average : 75.58
+Scholarship eligible  : 2 (Carlos Ndunda, Ruth Mwimali)
+============================================================
