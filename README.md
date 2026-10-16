@@ -90,21 +90,4 @@ One method therefore supports several ways of calling it.
 
 The full report is in `performance_report.txt`.
 
-## Reflection on Challenges
-One challenge was understanding that Python has no true method overloading. I
-learned that variable-length arguments (`*args`) with validation can give the
-same flexibility. Another was protecting the marks data. I used a private
-attribute with name mangling, a validated `set_mark()` method, and a
-`get_marks()` method that returns a copy so outside code cannot change the
-original. I also had to keep `PerformanceAnalyzer` working on the student objects
-rather than duplicating their data, which taught me about composition. Handling
-bad CSV rows without crashing the program needed `try/except` blocks, and I had
-to separate being a scholarship student (set in the CSV) from being eligible
-(average of at least 85). Finally, I met problems using Git and PowerShell, such
-as a mistyped command, and learned to read the error messages to fix them.
 
-## AI Use Declaration
-I used an AI assistant (Claude, by Anthropic) to help plan the class structure,
-generate a draft of the code and dataset, and draft this README. I reviewed the
-code, ran the program, and tested it. I understand how each part works and can
-explain it, and I take responsibility for the work I am submitting.
